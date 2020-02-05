@@ -1,5 +1,5 @@
 # python-lab1
-``
+```
 Name: Saransh pathak
 program : btech cs
 section-O
