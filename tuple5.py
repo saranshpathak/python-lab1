@@ -1,0 +1,5 @@
+t1=(4,24,('hy',78),[876,23,"hye"])
+t=list(t1)
+t.insert(1,"hiaj")
+t2=tuple(t)
+print(t2)
